@@ -2,6 +2,7 @@
 
 namespace App\Controller;
 
+use App\Reporting\Format\CsvFormatter;
 use App\Reporting\Format\HtmlFormatter;
 use App\Reporting\Format\JsonFormatter;
 use App\Reporting\Report;
@@ -23,6 +24,11 @@ class ReportCreatorController
 
         // Début de l'algorithme
         $report = new Report($date, $title, $data);
+
+
+        // test pour 
+        // $csvFormatter = new CsvFormatter();
+        // dd($csvFormatter->formatToCsv($report));
 
         if ($format === "html") {
             $formatter = new HtmlFormatter();
