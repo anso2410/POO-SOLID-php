@@ -6,7 +6,7 @@
 
 # SRP (single responsability principle)
 
-## Une classe, une responsabilité un rôle.
+## Une classe, une responsabilité, un rôle.
 
 ### 1- Organistaion
 
