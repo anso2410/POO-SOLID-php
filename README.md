@@ -6,7 +6,7 @@
 
 
 
-![image](src/img/s.svg)
+# ![image](src/img/s.svg)
 
 # SRP (single responsability principle)
 
@@ -20,7 +20,7 @@
 
 ### 4- Evolutivité
 
-![image](src/img/o.svg)
+# ![image](src/img/o.svg)
 
 # OCP (open closed principle)
 
