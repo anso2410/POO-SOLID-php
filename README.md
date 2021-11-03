@@ -1,8 +1,12 @@
 # POO-SOLID-php
 
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://forthebadge.com)<br>
 
-![image](src/img/made-with-php-solid-principle.svg) <br><br><br>
+
+![image](src/img/made-with-php-solid-principle.svg)<br>
+<img  alt="badge" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /><br> 
+<img  alt="badge"  src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=black"/><br><br><br>
+
 ![image](src/img/s.svg)<br>
 # SRP (Single Responsability Principle)<br>
 ## Une classe, une responsabilité, un rôle.<br>
