@@ -1,7 +1,7 @@
 # POO-SOLID-php
 
  [![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://forthebadge.com)
- <span style="margin-left:20px">![image](src/img/made-with-php-solid-principle.svg)</span><br>
+ <span style="margin-left:30px">![image](src/img/made-with-php-solid-principle.svg)</span><br>
 
  <img alt="badge" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/><span></span> <img style="margin-left:20px" alt="badge"  src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=black"/><br><br><br>
 
