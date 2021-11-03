@@ -36,7 +36,7 @@ class Report
      * Retourne un tableau associatif contenant la date et le titre du rapport
      * Indice : tiens tiens, on pourrait donc récupérer ces données depuis l'extérieur ?
      */
-    public function getContents()
+    public function getContents(): array
     {
         return [
             'date'  => $this->date,

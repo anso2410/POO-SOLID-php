@@ -24,10 +24,14 @@ class ReportExtractor
         $htmlFormatter = new HtmlFormatter();
         $htmlSpecialFormatter = new HtmlSpecialFormatter();
         $jsonFormatter = new JsonFormatter();
+        
+       
 
         $results[] = $htmlFormatter->formatToHtml($report);
         $results[] = $jsonFormatter->formatToJson($report);
         $results[] = $htmlSpecialFormatter->formatToHtml($report);
+        
+      
 
         return $results;
     }
