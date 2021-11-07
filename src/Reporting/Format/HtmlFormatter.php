@@ -27,10 +27,4 @@ class HtmlFormatter implements FormatterInterface
         ";
     }
 
-    public function deserialize(string $str): Report
-    {
-        throw new Exception("il est impossible de désérialiser du HTML");
-
-        return new Report("", "", []);
-    }
 }

@@ -28,4 +28,7 @@
 ## Le SRP des interfaces.<br>
 ### La notion d'interface permet de définir des contrats en ce qui concerne les méthodes que devront avoir les classes qui signent ce contrat, et qui donc implémentent cette interface.<br>
 
+#### Aucun client (classes qui se servent de l'interface) ne devrait dépendre des méthodes qu'il n'utilise pas. 
+
+-- <cite>Robert C. Martin</cite>
 
