@@ -30,5 +30,7 @@
 
 #### Aucun client (classes qui se servent de l'interface) ne devrait dépendre des méthodes qu'il n'utilise pas. 
 
--- <cite>Robert C. Martin</cite>
+-- <cite>Robert C. Martin</cite><br>
+
+Le i de SOLID discute avec le S de SOLID.
 
