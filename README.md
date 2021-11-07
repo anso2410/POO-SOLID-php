@@ -45,7 +45,7 @@ Le i de SOLID discute avec le S de SOLID.<br><br><br>
 ## L'avantage du principe SOLID c'est qu'il fait de votre projet quelquechose de plus intelligent, de plus flexible et de plus évolutif.<br>
 ### 1. Avec des classe plus petites (SRP); qui ont des responsabilité bien définie . où les fichiers sont correctement organisés, et où on va pouvoir retrouver facilement où se trouve quel code et qui fait quoi!.<br>
 ### 2. Des classes plus évolutives (OCP) ; On va pouvoir avoir des classes qui vont être enrichie( comportement plus puissant) sans y toucher (fermée aux modificationsmais ouverte à l'extension: 
-## <span style="color:RosyBrown">Merci Uncle Bob! </span>
+### <span style="color:RosyBrown">Merci Uncle Bob! </span>
 <img src="src/img/PiercingHospitableDwarfrabbit-max-1mb.gif" width="70" heigth="70"/><br>
 
 ### 3. Quand une classe A utilise les méthodes de la classe B, elle doit pouvoir utiliser n'importe quelle autre classe enfant de B sans que cela change radicalement son comportement (LSP). 
