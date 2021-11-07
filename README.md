@@ -1,9 +1,11 @@
 # POO-SOLID-php
 
  [![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://forthebadge.com)
- <span style="border-left:20px solid transparent">![image](src/img/made-with-php-solid-principle.svg)</span><br>
+ ![image](src/img/made-with-php-solid-principle.svg)<br>
 
- <img alt="badge" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> <img class= "ms-2" alt="badge"  src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=black"/><br><br><br>
+<img alt="badge" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> <img alt="badge"  src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=black"/><br>
+
+![image](src/img/merci-lior-chamla-!.svg)<br><br>
 
 ![image](src/img/s.svg)<br>
 # SRP (Single Responsability Principle)<br>
