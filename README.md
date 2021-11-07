@@ -32,10 +32,12 @@
 
 -- <cite>Robert C. Martin</cite><br>
 
-Le i de SOLID discute avec le S de SOLID.<br>
+Le i de SOLID discute avec le S de SOLID.<br><br><br>
 
 ![image](src/img/d.svg)<br> 
 # DIP (Dependency Inversion Principle)<br>
 ## On dépend d'abstraction, pas d'implémentations. <br>
 :red_circle::exclamation:Ne pas confondre avec le principe d'injection des dépendances qui est une pratique et non pas un principe SOLID.
+### Un module de haut niveau ne devrait pas dépendre de modules de bas niveaux. Les deux devraient dépendre d'une abstraction.
+-- <cite>Robert C.Martin</cite><br>
 
