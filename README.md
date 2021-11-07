@@ -46,6 +46,16 @@ Le i de SOLID discute avec le S de SOLID.<br><br><br>
 ### 1. Avec des classe plus petites (SRP); qui ont des responsabilité bien définie . où les fichiers sont correctement organisés, et où on va pouvoir retrouver facilement où se trouve quel code et qui fait quoi!.<br>
 ### 2. Des classes plus évolutives (OCP) ; On va pouvoir avoir des classes qui vont être enrichie( comportement plus puissant) sans y toucher (fermée aux modificationsmais ouverte à l'extension: 
 ### <span style="color:RosyBrown">Merci Uncle Bob! </span>
-<img src="src/img/PiercingHospitableDwarfrabbit-max-1mb.gif" width="70" heigth="70"/><br>
+<img src="src/img/PiercingHospitableDwarfrabbit-max-1mb.gif" width="100" heigth="100"/><br>
 
-### 3. Quand une classe A utilise les méthodes de la classe B, elle doit pouvoir utiliser n'importe quelle autre classe enfant de B sans que cela change radicalement son comportement (LSP). 
+### 3. Quand une classe A utilise les méthodes de la classe B, elle doit pouvoir utiliser n'importe quelle autre classe enfant de B sans que cela change radicalement son comportement (LSP). <br>
+
+### 4. (ISP) Si une interface posséde trop de méthodes, les classes qui vont implémenter cette interface auront trop de méthodes, trop de code et potentielement ne respecterons pas le SRP et surtout on pourrait se retrouver avec des classes qui implémentent une interface mais qui n'aurait pas besoin de toutes ses fonctions. D'où des interfaces le plus limitées possibles avec un scope bien précis. Mieux vaut implémenter une classe avec plusieurs interfaces.<br>
+
+### 5. Mieux vaut dépendre d'une abstarction que d'implémentations concrètes.le fait de dépendre d'une abstraction permet d'envoyer n'importe quelle classe qui implémente cette abstraction. Cela permet d'avoir des classes très évolutives.<br><br>
+
+## Un projet mieux organisé, plus joli, plus lisible, beaucoup plus évolutif et maintenable dans le temps.<br><br>
+
+<p >
+  <img src="src/img/solid.png" width="50%" height="50%" style="border-radius:20px"/>
+</p>
