@@ -27,9 +27,9 @@ class ReportExtractor
         
        
 
-        $results[] = $htmlFormatter->formatToHtml($report);
-        $results[] = $jsonFormatter->formatToJson($report);
-        $results[] = $htmlSpecialFormatter->formatToHtml($report);
+        $results[] = $htmlFormatter->format($report);
+        $results[] = $jsonFormatter->format($report);
+        $results[] = $htmlSpecialFormatter->format($report);
         
       
 

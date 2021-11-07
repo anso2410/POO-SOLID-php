@@ -32,5 +32,10 @@
 
 -- <cite>Robert C. Martin</cite><br>
 
-Le i de SOLID discute avec le S de SOLID.
+Le i de SOLID discute avec le S de SOLID.<br>
+
+![image](src/img/d.svg)<br> 
+# DIP (Dependency Inversion Principle)<br>
+## On dépend d'abstraction, pas d'implémentations. <br>
+:red_circle::exclamation:Ne pas confondre avec le principe d'injection des dépendances qui est une pratique et non pas un principe SOLID.
 
