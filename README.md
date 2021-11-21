@@ -61,5 +61,5 @@ Le i de SOLID discute avec le S de SOLID.<br><br><br>
 </p>
 
 enjoy!!
-# petit test de token github !
-# test sudo git push ! lol
+
+# test github cli manager token
