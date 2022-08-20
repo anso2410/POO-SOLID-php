@@ -60,6 +60,6 @@ Le i de SOLID discute avec le S de SOLID.<br><br><br>
   <img src="src/img/solid.png" width="50%" height="50%" style="border-radius:20px"/>
 </p>
 
-enjoy!!!
+enjoy!!!!
 
 
